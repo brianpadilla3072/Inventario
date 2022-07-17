@@ -1,0 +1,34 @@
+/* divs de inventario*/
+  
+    #inventario{
+        display: block;
+    }
+    #respuesta-id{
+        display: none;
+    }
+    
+
+
+/* divs de perfil */
+    #perfil{
+        display: none;
+        background-color: aqua;
+   
+    }
+    #btn-perfil{
+        color: aliceblue;
+    }
+
+
+
+
+
+/* divs de cargar */
+    #cargar{
+        display: none;
+        background-color: brown;
+        
+    }
+    #btn-cargar{
+        color: aliceblue;
+    }
